@@ -1,2 +1,4 @@
 github.com/dsp-testing/dependency-graph-snek-test v0.0.0-20210920194222-48d9fe9d48b6 h1:kjAlXrqeHiFYlI6ucTDlhkSm1DT5zjRDWDG/70NE2HM=
 github.com/dsp-testing/dependency-graph-snek-test v0.0.0-20210920194222-48d9fe9d48b6/go.mod h1:4n5nULrfyJBz/XlhzlUoS2hpf55OO34JmJH3Rb4ItHM=
+github.com/dsp-testing/dependency-graph-snek-test v1.0.0 h1:rVdax5cUt4Dp/BzxsS6b1HGz6lTf5hNC1ActNaQ+iZM=
+github.com/dsp-testing/dependency-graph-snek-test v1.0.0/go.mod h1:4n5nULrfyJBz/XlhzlUoS2hpf55OO34JmJH3Rb4ItHM=
